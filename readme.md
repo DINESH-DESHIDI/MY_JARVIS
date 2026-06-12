@@ -8,7 +8,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-Camera_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
 [![Playwright](https://img.shields.io/badge/Playwright-Browser_Control-45BA4B?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-Bridge-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 > *"Sometimes you gotta run before you can walk."* — Tony Stark
 
