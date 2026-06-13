@@ -170,7 +170,7 @@ JARVIS-MT67 grants an AI model direct access to your computer — including the 
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/843subhanshkv42021-lab/Jarvis-MT67.git
+git clone https://github.com/DINESH-DESHIDI/MY_JARVIS.git
 cd Jarvis-MT67
 ```
 
@@ -211,7 +211,7 @@ Then open `config/api_keys.json` and fill in your details:
 }
 ```
 
-You can get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com/app/apikey).
+You can get a free Gemini API key at https://aistudio.google.com/app/apikey.
 
 ### Step 6 — Launch JARVIS
 
